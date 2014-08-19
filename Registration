@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	<h1>Registration</h1>
+
+		<form>
+			First Name: <input type= "text" name="firstname"><br>
+			Last Name: <input type= "text" name="lastname"><br>
+			Street Address: <input type= "text" name="stAddress"><br>
+			City: <input type= "text" name="city"><br>
+			State: <input type= "text" name="state"><br>
+			Zip: <input type= "text" name="zip"><br>
+			
+			<input type= submit value="Register">
+		
+		</form>
+
+</body>
+</html>
