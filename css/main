@@ -1,0 +1,9 @@
+
+
+#container { 
+  width: 780px; 
+  background: #0000FF;
+  margin: 0 auto; 
+  border: 3px solid #000000;
+  text-align: left; 
+}
